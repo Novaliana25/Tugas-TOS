@@ -1,1 +1,2 @@
-# Tugas-TOS
+Repository ini dibuat sebagai pemenuhan tugas mata kuliah Teknologi Open Source.
+File pada repository ini merupakan resep roti manis. Roti adalah makanan olahan tertua di dunia. Bukti dari 30.000 tahun lalu di Eropa memperlihatkan residu tepung di permukaan bebatuan yang digunakan untuk menumbuk makanan. Kemungkinan pada waktu itu tepung sudah mulai diekstraksi dari umbi-umbian, misalnya dari tumbuhan jenis Typha dan tumbuhan paku
